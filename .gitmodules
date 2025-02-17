@@ -1,0 +1,3 @@
+[submodule "lectures/rails-authentication"]
+	path = lectures/rails-authentication
+	url = git@github.com:trouni/rails-authentication-1885
